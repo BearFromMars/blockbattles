@@ -11,9 +11,11 @@ repositories {
     maven { url 'https://jitpack.io' }
 }
 dependencies {
-    implementation 'com.github.Minestom:Minestom:1.19.3-SNAPSHOT'
+    implementation 'com.github.Minestom.Minestom:Minestom:1.19.3-SNAPSHOT'
     implementation 'com.github.apache:commons-jcs:rel~commons-jcs3-3.1'
     implementation 'com.github.emortalmc:Immortal:1.3.0'
+    implementation 'com.github.TogAr2:BasicRedstone:1.0'
+
 }
 
 // Code sample, be sure to modify the 'Main-Class' value
